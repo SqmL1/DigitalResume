@@ -49,7 +49,7 @@ export function Main() {
             </GridItem>
 
             
-            
+            something
             
             <GridItem className=" ">
               <Center><button className="bg-white rounded-4xl p-2 border-black border-2 text-black"> Button 1</button></Center>
